@@ -1,5 +1,10 @@
 ## As a begining
 For the purpose of the interview directly, also help me to figure out what I have learned. 
+
+### Distributed System(English to Chinesse)
+
+- [chapter 1]
+
 ### leetcode (medium or hard)
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
