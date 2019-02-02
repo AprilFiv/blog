@@ -1,8 +1,6 @@
-[link](https://leetcode.com/problems/first-missing-positive/)
-
 This problem is pretty simple, while the length of the array is given by the input, we can quickly find the outcoming in O(nlog2n) with binarysearch.
 
-source code as follow 
+source code as follow :
 
 ```javascript
     public int firstMissingPositive(int[] nums) {
