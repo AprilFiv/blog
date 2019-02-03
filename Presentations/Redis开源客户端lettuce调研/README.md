@@ -51,12 +51,15 @@ lettuce在实现上有很多技术层面的理论优势。
 | 3000 | 1 | 1655 |1711 | 0:0 |  
 
 
-```javascript
-- 这里以500线程数作为日常的访问量,可以发现jedis的极限TPS应该在10000左右,lettuce在17000左右
-- 当并发线程增加时,jedis和lettuce的吞吐量都在2000左右
-- 在set的单键操作上,lettuce对比jedis并没有明显的性能优势
+-----
 
-```
+- 这里以500线程数作为日常的访问量,可以发现jedis的极限TPS应该在10000左右,lettuce在17000左右    
+ 
+- 当并发线程增加时,jedis和lettuce的吞吐量都在2000左右
+  
+- 在set的单键操作上,lettuce对比jedis并没有明显的性能优势  
+
+-----
 
 #### get
 | threads | loop counts | jedis(tps) | lettuce(tps) | error(j:l) |
@@ -144,7 +147,7 @@ lettuce在实现上有很多技术层面的理论优势。
 | redis.node| redis节点IP:PORT，多个以;隔开 
 | redis.password | 验证密码
 
--------
+```javascript
 @Configuration
 @PropertySources(
     @PropertySource({ "classpath:template-api-redis.properties", }))
@@ -203,7 +206,7 @@ public class Config {
     
 }
 
------
+```
 
 #### 使用说明
 
