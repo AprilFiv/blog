@@ -1,7 +1,11 @@
 ## As a begining
 For the purpose of the interview directly, also help me to figure out what I have learned. 
 
-### Distributed System(English to Chinesse)
+### Presentations 
+
+- [Redis开源客户端lettuce调研]()
+
+### [Distributed System(English to Chinesse)
 
 - [chapter 1]
 
