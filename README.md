@@ -1,9 +1,9 @@
 ## As a begining
 For the purpose of the interview directly, also help me to figure out what I have learned. 
 
-### Presentations 
+### Researches 
 
-- [Redis开源客户端lettuce调研]()
+- [Redis开源客户端lettuce调研](https://github.com/AprilFiv/blog/tree/master/Resourches/Redis%E5%BC%80%E6%BA%90%E5%AE%A2%E6%88%B7%E7%AB%AFlettuce%E8%B0%83%E7%A0%94)
 
 ### [Distributed System(English to Chinesse)
 
