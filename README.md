@@ -5,14 +5,17 @@ For the purpose of the interview directly, also help me to figure out what I hav
 
 - [Redis开源客户端lettuce调研](https://github.com/AprilFiv/blog/tree/master/Resourches/Redis%E5%BC%80%E6%BA%90%E5%AE%A2%E6%88%B7%E7%AB%AFlettuce%E8%B0%83%E7%A0%94)
 
-### [Distributed System(English to Chinesse)
+### Distributed System(English to Chinesse)
 
 - [chapter 1](https://github.com/AprilFiv/blog/tree/master/distributed%20system/chapter%201)
 
 ### leetcode (medium or hard)
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
+- [10. Regular Expression Matching](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
+
 - [31. Next Permutation](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
+- [34. Find First and Last Position of Element in Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 - [39. Combination Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/39.%20Combination%20Sum/)
 - [41.First Missing Positive](https://github.com/AprilFiv/blog/blob/master/leetcode/41.%20First%20Missing%20Positive/)
 - [42. Trapping Rain Water](https://github.com/AprilFiv/blog/blob/master/leetcode/42.%20Trapping%20Rain%20Water/)
