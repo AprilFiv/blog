@@ -12,7 +12,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 ### leetcode (medium or hard)
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
-- [10. Regular Expression Matching](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
+- [10. Regular Expression Matching](https://github.com/AprilFiv/blog/tree/master/leetcode/10.%20Regular%20Expression%20Matching)
 
 - [31. Next Permutation](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
