@@ -13,7 +13,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
 - [4. Median of Two Sorted Arrays](https://github.com/AprilFiv/blog/tree/master/leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
-- [5. Longest Palindromic Substring](https://github.com/AprilFiv/blog/tree/master/leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
+- [5. Longest Palindromic Substring](https://github.com/AprilFiv/blog/tree/master/leetcode/5.%20Longest%20Palindromic%20Substring)
 
 - [10. Regular Expression Matching](https://github.com/AprilFiv/blog/tree/master/leetcode/10.%20Regular%20Expression%20Matching)
 
