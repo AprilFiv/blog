@@ -29,7 +29,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 
 - [31. Next Permutation](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
 - [32. Longest Valid Parentheses](https://github.com/AprilFiv/blog/tree/master/leetcode/32.%20Longest%20Valid%20Parentheses)
-- [33. Search in Rotated Sorted Array](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
+- [33. Search in Rotated Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/33.%20Search%20in%20Rotated%20Sorted%20Array)
 
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 - [39. Combination Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/39.%20Combination%20Sum/)
