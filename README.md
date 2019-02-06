@@ -23,7 +23,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [17. Letter Combinations of a Phone Number](https://github.com/AprilFiv/blog/tree/master/leetcode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 - [19. Remove Nth Node From End of List](https://github.com/AprilFiv/blog/tree/master/leetcode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 - [20. Valid Parentheses](https://github.com/AprilFiv/blog/tree/master/leetcode/20.%20Valid%20Parentheses)
-- [21. Merge Two Sorted Lists](https://github.com/AprilFiv/blog/tree/master/leetcode/15.%203Sum)
+- [21. Merge Two Sorted Lists](https://github.com/AprilFiv/blog/tree/master/leetcode/21.%20Merge%20Two%20Sorted%20Lists)
 
 - [31. Next Permutation](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
