@@ -10,6 +10,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [chapter 1](https://github.com/AprilFiv/blog/tree/master/distributed%20system/chapter%201)
 
 ### leetcode (medium or hard)
+- [1. Two Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
+
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
 - [4. Median of Two Sorted Arrays](https://github.com/AprilFiv/blog/tree/master/leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
@@ -17,6 +19,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 
 - [10. Regular Expression Matching](https://github.com/AprilFiv/blog/tree/master/leetcode/10.%20Regular%20Expression%20Matching)
 - [11. Container With Most Water](https://github.com/AprilFiv/blog/tree/master/leetcode/11.%20Container%20With%20Most%20Water)
+- [15. 3Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
 
 - [31. Next Permutation](https://github.com/AprilFiv/blog/blob/master/leetcode/31.%20Next%20Permutation/)
 - [34. Find First and Last Position of Element in Sorted Array](https://github.com/AprilFiv/blog/tree/master/leetcode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
