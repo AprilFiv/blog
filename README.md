@@ -40,7 +40,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [48. Rotate Image](https://github.com/AprilFiv/blog/blob/master/leetcode/48.%20Rotate%20Image/)
 - [49. Group Anagrams](https://github.com/AprilFiv/blog/tree/master/leetcode/49.%20Group%20Anagrams)
 - [53. Maximum Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/53.%20Maximum%20Subarray)
-- [55. Jump Game](https://github.com/AprilFiv/blog/blob/master/leetcode/48.%20Rotate%20Image/)
+- [55. Jump Game](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
+- [56. Merge Intervals](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
 
 - [61. Rotate List](https://github.com/AprilFiv/blog/tree/master/leetcode/61.%20Rotate%20List)
 - [64. Minimum Path Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/64.%20Minimum%20Path%20Sum/)

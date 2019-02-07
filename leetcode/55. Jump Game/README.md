@@ -20,3 +20,18 @@ class Solution {
     }
 }   
 ```
+
+other solution by greedy algorithm, based on the accessibility same.
+```javascript
+ public boolean canJump(int[] nums) {
+        int N = nums.length;
+        int longest = 0, curr = 0;
+        for (int i =0; i < N; i++) {
+            longest = Math.max(nums[i] + i, longest);
+            if (i == curr) {
+                curr = longest;
+            }
+        }
+        return curr >= N -1;
+    }  
+```
