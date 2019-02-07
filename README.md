@@ -41,9 +41,11 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [49. Group Anagrams](https://github.com/AprilFiv/blog/tree/master/leetcode/49.%20Group%20Anagrams)
 - [53. Maximum Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/53.%20Maximum%20Subarray)
 - [55. Jump Game](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
-- [56. Merge Intervals](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
+- [56. Merge Intervals](https://github.com/AprilFiv/blog/tree/master/leetcode/56.%20Merge%20Intervals)
 
 - [61. Rotate List](https://github.com/AprilFiv/blog/tree/master/leetcode/61.%20Rotate%20List)
+- [62. Unique Paths](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
+
 - [64. Minimum Path Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/64.%20Minimum%20Path%20Sum/)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 
