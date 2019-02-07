@@ -44,9 +44,11 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [56. Merge Intervals](https://github.com/AprilFiv/blog/tree/master/leetcode/56.%20Merge%20Intervals)
 
 - [61. Rotate List](https://github.com/AprilFiv/blog/tree/master/leetcode/61.%20Rotate%20List)
-- [62. Unique Paths](https://github.com/AprilFiv/blog/tree/master/leetcode/55.%20Jump%20Game)
+- [62. Unique Paths](https://github.com/AprilFiv/blog/tree/master/leetcode/62.%20Unique%20Paths)
 
 - [64. Minimum Path Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/64.%20Minimum%20Path%20Sum/)
+- [70. Climbing Stairs](https://github.com/AprilFiv/blog/tree/master/leetcode/62.%20Unique%20Paths)
+
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 
 
