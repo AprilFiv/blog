@@ -39,7 +39,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [47. Permutations II](https://github.com/AprilFiv/blog/blob/master/leetcode/47.%20Permutations%20II/)
 - [48. Rotate Image](https://github.com/AprilFiv/blog/blob/master/leetcode/48.%20Rotate%20Image/)
 - [49. Group Anagrams](https://github.com/AprilFiv/blog/tree/master/leetcode/49.%20Group%20Anagrams)
-- [53. Maximum Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/49.%20Group%20Anagrams)
+- [53. Maximum Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/53.%20Maximum%20Subarray)
+- [55. Jump Game](https://github.com/AprilFiv/blog/blob/master/leetcode/48.%20Rotate%20Image/)
 
 - [61. Rotate List](https://github.com/AprilFiv/blog/tree/master/leetcode/61.%20Rotate%20List)
 - [64. Minimum Path Sum](https://github.com/AprilFiv/blog/blob/master/leetcode/64.%20Minimum%20Path%20Sum/)
