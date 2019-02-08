@@ -54,8 +54,9 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [78. Subsets](https://github.com/AprilFiv/blog/tree/master/leetcode/78.%20Subsets)
 - [79. Word Search](https://github.com/AprilFiv/blog/tree/master/leetcode/79.%20Word%20Search)
 - [89. Gray Code](https://github.com/AprilFiv/blog/tree/master/leetcode/89.%20Gray%20Code)
-- [94. Binary Tree Inorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/89.%20Gray%20Code)
+- [94. Binary Tree Inorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/94.%20Binary%20Tree%20Inorder%20Traversal)
 
+- [96. Unique Binary Search Trees](https://github.com/AprilFiv/blog/tree/master/leetcode/89.%20Gray%20Code)
 
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)

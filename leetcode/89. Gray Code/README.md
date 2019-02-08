@@ -1,3 +1,5 @@
+        0,1->00,01,11,10->000,001,011,010,110,111,101,100
+        each time add '1' in highest bit in desc order;
 ```javascript
 class Solution {
     public List<Integer> grayCode(int n) {
