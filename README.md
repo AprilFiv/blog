@@ -59,7 +59,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [96. Unique Binary Search Trees](https://github.com/AprilFiv/blog/tree/master/leetcode/96.%20Unique%20Binary%20Search%20Trees)
 - [98. Validate Binary Search Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/98.%20Validate%20Binary%20Search%20Tree)
 - [101. Symmetric Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/101.Symmetric%20Tree)
-- [102. Binary Tree Level Order Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/101.Symmetric%20Tree)
+- [102. Binary Tree Level Order Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
+- [104. Maximum Depth of Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/101.Symmetric%20Tree)
 
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
