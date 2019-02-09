@@ -1,9 +1,7 @@
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
-import java.util.AbstractMap;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class DynamicInvocationHandler implements InvocationHandler {
     private Object target;
@@ -58,6 +56,14 @@ public class DynamicInvocationHandler implements InvocationHandler {
 
 
         proxyInstance.put("1","2");
+        ;
+        Set<Map.Entry> set = new TreeSet<>(new Comparator<Map.Entry>() {
+            @Override
+            public int compare(Map.Entry o1, Map.Entry o2) {
+                return (int)o1.getValue()-(int)o2.getValue();
+            }
+        });
+        set.iterator().next().getKey();
         System.out.println(proxyInstance.hashCode());
         System.out.println(proxyInstance.get("1"));
 
