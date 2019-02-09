@@ -1,6 +1,11 @@
 ## As a begining
 For the purpose of the interview directly, also help me to figure out what I have learned. 
 
+### Java
+
+- [动态生成类]()
+
+
 ### Researches 
 
 - [Redis开源客户端lettuce调研](https://github.com/AprilFiv/blog/tree/master/Resourches/Redis%E5%BC%80%E6%BA%90%E5%AE%A2%E6%88%B7%E7%AB%AFlettuce%E8%B0%83%E7%A0%94)
@@ -9,7 +14,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 
 - [chapter 1](https://github.com/AprilFiv/blog/tree/master/distributed%20system/chapter%201)
 
-### leetcode (medium or hard)
+### leetcode
 - [1. Two Sum](https://github.com/AprilFiv/blog/tree/master/leetcode/1.%20Two%20Sum)
 
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
@@ -63,6 +68,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [104. Maximum Depth of Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
 - [121. Best Time to Buy and Sell Stock](https://github.com/AprilFiv/blog/tree/master/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+- [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/101.Symmetric%20Tree)
 
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
