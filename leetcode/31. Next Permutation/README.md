@@ -1,6 +1,6 @@
-As a obvious though, 
+As a obvious thought, 
 we should find the first a(i)>a(i-1) in a reverse order. 
-If exists, exchange the a(i-1) and the minium one larger than a(i-1), 
+If exists, exchange the a(i-1) and the minimum one larger than a(i-1), 
 then reverse the arr[i...length-1], 
 or just reverse the total array.
 

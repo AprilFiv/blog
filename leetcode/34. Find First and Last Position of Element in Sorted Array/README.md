@@ -3,7 +3,7 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         /* 
         * use a java default binarySearch.
-        * be carefull that it's not always return the mininum index.
+        * be carefull that it's not always return the minimum index.
         */
         int start = Arrays.binarySearch(nums,target);
         if (start < 0 ){
