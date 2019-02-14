@@ -76,6 +76,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [141. Linked List Cycle](https://github.com/AprilFiv/blog/tree/master/leetcode/141.%20Linked%20List%20Cycle)
 - [142. Linked List Cycle II](https://github.com/AprilFiv/blog/tree/master/leetcode/142.%20Linked%20List%20Cycle%20II)
 - [146. LRU Cache](https://github.com/AprilFiv/blog/tree/master/leetcode/146.%20LRU%20Cache)
+- [148. Sort List](https://github.com/AprilFiv/blog/tree/master/leetcode/146.%20LRU%20Cache)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
