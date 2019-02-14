@@ -68,7 +68,9 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [104. Maximum Depth of Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/104.%20Maximum%20Depth%20of%20Binary%20Tree)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
 - [121. Best Time to Buy and Sell Stock](https://github.com/AprilFiv/blog/tree/master/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
-- [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
+- [136. Single Number](https://github.com/AprilFiv/blog/tree/master/leetcode/102.%20Binary%20Tree%20Level%20Order%20Traversal)
+
+- [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
 - [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [347. Top K Frequent Elements](https://github.com/AprilFiv/blog/tree/master/leetcode/347.%20Top%20K%20Frequent%20Elements)
