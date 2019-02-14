@@ -73,6 +73,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 
 - [136. Single Number](https://github.com/AprilFiv/blog/tree/master/leetcode/136.%20Single%20Number)
 - [139. Word Break](https://github.com/AprilFiv/blog/tree/master/leetcode/139.%20Word%20Break)
+- [141. Linked List Cycle](https://github.com/AprilFiv/blog/tree/master/leetcode/139.%20Word%20Break)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
