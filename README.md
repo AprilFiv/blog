@@ -69,7 +69,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
 - [121. Best Time to Buy and Sell Stock](https://github.com/AprilFiv/blog/tree/master/leetcode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 - [124. Binary Tree Maximum Path Sum](https://github.com/AprilFiv/blog/tree/master/leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
-- [128. Longest Consecutive Sequence](https://github.com/AprilFiv/blog/tree/master/leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum)
+- [128. Longest Consecutive Sequence](https://github.com/AprilFiv/blog/tree/master/leetcode/128.%20Longest%20Consecutive%20Sequence)
 
 - [136. Single Number](https://github.com/AprilFiv/blog/tree/master/leetcode/136.%20Single%20Number)
 
