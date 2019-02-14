@@ -72,6 +72,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [128. Longest Consecutive Sequence](https://github.com/AprilFiv/blog/tree/master/leetcode/128.%20Longest%20Consecutive%20Sequence)
 
 - [136. Single Number](https://github.com/AprilFiv/blog/tree/master/leetcode/136.%20Single%20Number)
+- [139. Word Break](https://github.com/AprilFiv/blog/tree/master/leetcode/128.%20Longest%20Consecutive%20Sequence)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
