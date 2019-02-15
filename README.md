@@ -81,7 +81,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [160. Intersection of Two Linked Lists](https://github.com/AprilFiv/blog/tree/master/leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists)
 - [169. Majority Element](https://github.com/AprilFiv/blog/tree/master/leetcode/169.%20Majority%20Element)
 - [198. House Robber](https://github.com/AprilFiv/blog/tree/master/leetcode/198.%20House%20Robber)
-- [200. Number of Islands](https://github.com/AprilFiv/blog/tree/master/leetcode/198.%20House%20Robber)
+- [200. Number of Islands](https://github.com/AprilFiv/blog/tree/master/leetcode/200.%20Number%20of%20Islands)
+- [206. Reverse Linked List](https://github.com/AprilFiv/blog/tree/master/leetcode/200.%20Number%20of%20Islands)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
