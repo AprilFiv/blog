@@ -85,7 +85,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [206. Reverse Linked List](https://github.com/AprilFiv/blog/tree/master/leetcode/200.%20Number%20of%20Islands)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
-- [208. Implement Trie (Prefix Tree)](https://github.com/AprilFiv/blog/tree/master/leetcode/200.%20Number%20of%20Islands)
+- [208. Implement Trie (Prefix Tree)](https://github.com/AprilFiv/blog/tree/master/leetcode/208.%20Implement%20Trie%20(Prefix%20Tree))
+- [215. Kth Largest Element in an Array](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
 - [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [347. Top K Frequent Elements](https://github.com/AprilFiv/blog/tree/master/leetcode/347.%20Top%20K%20Frequent%20Elements)
