@@ -78,7 +78,8 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [146. LRU Cache](https://github.com/AprilFiv/blog/tree/master/leetcode/146.%20LRU%20Cache)
 - [148. Sort List](https://github.com/AprilFiv/blog/tree/master/leetcode/148.%20Sort%20List)
 - [152. Maximum Product Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/152.%20Maximum%20Product%20Subarray)
-- [160. Intersection of Two Linked Lists](https://github.com/AprilFiv/blog/tree/master/leetcode/152.%20Maximum%20Product%20Subarray)
+- [160. Intersection of Two Linked Lists](https://github.com/AprilFiv/blog/tree/master/leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists)
+- [169. Majority Element](https://github.com/AprilFiv/blog/tree/master/leetcode/160.%20Intersection%20of%20Two%20Linked%20Lists)
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 
