@@ -92,6 +92,7 @@ also translating some awesome works.
 - [283. Move Zeroes](https://github.com/AprilFiv/blog/tree/master/leetcode/283.%20Move%20Zeroes)
 - [287. Find the Duplicate Number](https://github.com/AprilFiv/blog/tree/master/leetcode/287.%20Find%20the%20Duplicate%20Number)
 - [297. Serialize and Deserialize Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/283.%20Move%20Zeroes)
+- [300. Longest Increasing Subsequence](https://github.com/AprilFiv/blog/tree/master/leetcode/283.%20Move%20Zeroes)
 
 - [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [347. Top K Frequent Elements](https://github.com/AprilFiv/blog/tree/master/leetcode/347.%20Top%20K%20Frequent%20Elements)
