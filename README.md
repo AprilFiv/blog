@@ -99,7 +99,8 @@ also translating some awesome works.
 - [394. Decode String](https://github.com/AprilFiv/blog/tree/master/leetcode/394.%20Decode%20String)
 
 - [416. Partition Equal Subset Sum](https://github.com/AprilFiv/blog/tree/master/leetcode/416.%20Partition%20Equal%20Subset%20Sum)
-- [437. Path Sum III](https://github.com/AprilFiv/blog/tree/master/leetcode/394.%20Decode%20String)
+- [437. Path Sum III](https://github.com/AprilFiv/blog/tree/master/leetcode/437.%20Path%20Sum%20III)
+- [560. Subarray Sum Equals K](https://github.com/AprilFiv/blog/tree/master/leetcode/437.%20Path%20Sum%20III)
 
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
