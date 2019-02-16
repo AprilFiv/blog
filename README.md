@@ -1,14 +1,8 @@
 ## As a begining
-For the purpose of the interview directly, also help me to figure out what I have learned. 
+Recording something about leetcode or other questions,
 
-### Java
+also translating some awesome works.
 
-- [dynamic proxy]()
-
-
-### Researches 
-
-- [Redis开源客户端lettuce调研](https://github.com/AprilFiv/blog/tree/master/Resourches/Redis%E5%BC%80%E6%BA%90%E5%AE%A2%E6%88%B7%E7%AB%AFlettuce%E8%B0%83%E7%A0%94)
 
 ### Distributed System(English to Chinesse)
 
@@ -92,7 +86,7 @@ For the purpose of the interview directly, also help me to figure out what I hav
 - [234. Palindrome Linked List](https://github.com/AprilFiv/blog/tree/master/leetcode/234.%20Palindrome%20Linked%20List)
 - [236. Lowest Common Ancestor of a Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 - [238. Product of Array Except Self](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
-- [239. Sliding Window Maximum](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
+- [239. Sliding Window Maximum](https://github.com/AprilFiv/blog/tree/master/leetcode/239.%20Sliding%20Window%20Maximum)
 
 - [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [347. Top K Frequent Elements](https://github.com/AprilFiv/blog/tree/master/leetcode/347.%20Top%20K%20Frequent%20Elements)
