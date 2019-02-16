@@ -88,7 +88,8 @@ also translating some awesome works.
 - [238. Product of Array Except Self](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [239. Sliding Window Maximum](https://github.com/AprilFiv/blog/tree/master/leetcode/239.%20Sliding%20Window%20Maximum)
 - [240. Search a 2D Matrix II](https://github.com/AprilFiv/blog/tree/master/leetcode/239.%20Sliding%20Window%20Maximum)
-- [279. Perfect Squares](https://github.com/AprilFiv/blog/tree/master/leetcode/239.%20Sliding%20Window%20Maximum)
+- [279. Perfect Squares](https://github.com/AprilFiv/blog/tree/master/leetcode/279.%20Perfect%20Squares)
+- [283. Move Zeroes](https://github.com/AprilFiv/blog/tree/master/leetcode/279.%20Perfect%20Squares)
 
 - [322. Coin Change](https://github.com/AprilFiv/blog/tree/master/leetcode/322.%20Coin%20Change)
 - [347. Top K Frequent Elements](https://github.com/AprilFiv/blog/tree/master/leetcode/347.%20Top%20K%20Frequent%20Elements)
