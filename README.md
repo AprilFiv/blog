@@ -106,11 +106,16 @@ also translating some awesome works.
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 
-##### contest 124
-- [993. Cousins in Binary Tree ]()
-- [994. Rotting Oranges]()
+##### contest 124 
+first time participated in the leetcode contest. 
 
-- [995. Minimum Number of K Consecutive Bit Flips]()
-- [996. Number of Squareful Arrays]()
+struggled with the 996 for about an hour, just by forgetting to consider 0 * 0 = 0;
+
+end up 718/4714.
+- [993. Cousins in Binary Tree ](https://github.com/AprilFiv/blog/tree/master/leetcode/993.%20Cousins%20in%20Binary%20Tree)
+- [994. Rotting Oranges](https://github.com/AprilFiv/blog/tree/master/leetcode/994.%20Rotting%20Oranges)
+
+- [995. Minimum Number of K Consecutive Bit Flips](https://github.com/AprilFiv/blog/tree/master/leetcode/995.%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips)
+- [996. Number of Squareful Arrays](https://github.com/AprilFiv/blog/tree/master/leetcode/996.%20Number%20of%20Squareful%20Arrays)
 
 
