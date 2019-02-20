@@ -1,5 +1,5 @@
 ## As a begining
-Recording something about leetcode or other questions,
+Recording something about leetcode or other questions
 
 also translating some awesome works.
 
@@ -11,7 +11,9 @@ also translating some awesome works.
 ### leetcode
 - [1. Two Sum](https://github.com/AprilFiv/blog/tree/master/leetcode/1.%20Two%20Sum)
 
+
 - [2.Add Two Numbers](https://github.com/AprilFiv/blog/blob/master/leetcode/2.Add%20Two%20Numbers/)
+
 - [3. Longest Substring Without Repeating Characters](https://github.com/AprilFiv/blog/blob/master/leetcode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/)
 - [4. Median of Two Sorted Arrays](https://github.com/AprilFiv/blog/tree/master/leetcode/4.%20Median%20of%20Two%20Sorted%20Arrays)
 - [5. Longest Palindromic Substring](https://github.com/AprilFiv/blog/tree/master/leetcode/5.%20Longest%20Palindromic%20Substring)
