@@ -80,6 +80,8 @@ also translating some awesome works.
 
 - [207. Course Schedule](https://github.com/AprilFiv/blog/tree/master/leetcode/207.%20Course%20Schedule)
 - [208. Implement Trie (Prefix Tree)](https://github.com/AprilFiv/blog/tree/master/leetcode/208.%20Implement%20Trie%20(Prefix%20Tree))
+- [209. Minimum Size Subarray Sum]()
+
 - [215. Kth Largest Element in an Array](https://github.com/AprilFiv/blog/tree/master/leetcode/215.%20Kth%20Largest%20Element%20in%20an%20Array)
 - [221. Maximal Square](https://github.com/AprilFiv/blog/tree/master/leetcode/221.%20Maximal%20Square)
 - [226. Invert Binary Tree](https://github.com/AprilFiv/blog/tree/master/leetcode/226.%20Invert%20Binary%20Tree)
@@ -107,6 +109,7 @@ also translating some awesome works.
 
 - [581. Shortest Unsorted Continuous Subarray](https://github.com/AprilFiv/blog/tree/master/leetcode/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
 - [621. Task Scheduler](https://github.com/AprilFiv/blog/tree/master/leetcode/621.%20Task%20Scheduler)
+- [771. Jewels and Stones]()
 
 - [889. Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/AprilFiv/blog/tree/master/leetcode/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 
